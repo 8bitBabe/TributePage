@@ -1,0 +1,63 @@
+.header {
+  text-align: center;
+  color: white;
+  background-color: rgba(256 , 256, 256, 0.2);
+  padding: 15px;
+  font-size: 2em;
+  font-family: 'Chilanka', cursive;
+} 
+body{
+  background-color: #006400;
+  margin: 3em;
+  color: white;
+  text-shadow: 1px 1px #000000;
+}
+#img-div {
+  font-family: 'Hind Siliguri', sans-serif;
+  text-align: center;
+  padding: 3em;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#tribute-header {
+  padding: 1em;
+  text-align: center;
+}
+
+#tribute-info {
+  background-color: rgba(256, 256, 256, 0.2);
+  font-family: 'Hind Siliguri', sans-serif;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 2;
+  background-color: rgba(256, 256, 256, .3);
+  font-size: 18px;
+}
+
+li {
+  margin: 16px 0;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+#facebook-text {
+  text-align: center;
+  padding: 2em;
+  font-size: 16px;
+}
