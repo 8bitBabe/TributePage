@@ -6,12 +6,14 @@
   font-size: 2em;
   font-family: 'Chilanka', cursive;
 } 
+
 body{
   background-color: #006400;
   margin: 3em;
   color: white;
   text-shadow: 1px 1px #000000;
 }
+
 #img-div {
   font-family: 'Hind Siliguri', sans-serif;
   text-align: center;
